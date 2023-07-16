@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/im_haris8278" target="blank"><img src="https://img.shields.io/twitter/follow/im_haris8278?logo=twitter&style=for-the-badge" alt="im_haris8278" /></a> </p>
 
-- 🔭 I’m currently working on **Raptor-Gulf**
+- 🔭 I'm currently working at **Scale AI** on **Dolphin Coding**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms for Problem Solving**
 
