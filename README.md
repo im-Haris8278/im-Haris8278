@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Haris Baig</h1>
 <h3 align="center">I am an enthusiastic Software Developer who thrives on discovering emerging technologies and crafting inventive solutions. I specialize in Web Development and take pleasure in working alongside other developers and making valuable contributions to open-source projects. When I'm not engrossed in coding, you'll find me engrossed in problem-solving. Let's join forces and collaborate to build something extraordinary!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=im-haris8278&label=Profile%20views&color=0e75b6&style=flat" alt="im-haris8278" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=im-haris8278" alt="im-haris8278" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/im_haris8278" target="blank"><img src="https://img.shields.io/twitter/follow/im_haris8278?logo=twitter&style=for-the-badge" alt="im_haris8278" /></a> </p>
 
 - 🔭 I’m currently working on **Raptor-Gulf**
